@@ -1,4 +1,4 @@
-# Drum_set
-A drum set 
+# Drum_Kit
+A drum Kit
 
-It is a simple drum set made with javascript.
+It is a simple drum kit made with javascript.
